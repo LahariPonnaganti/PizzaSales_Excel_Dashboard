@@ -36,6 +36,9 @@ This project presents an **interactive Excel dashboard** designed to analyze piz
 ---
 
 ## 📂 Files in Repository  
+- [📊 Pizza_Sales_Dashboard.xlsx](https://github.com/LahariPonnaganti/PizzaSales_Excel_Dashboard/raw/main/pizza_sales_EXCEL_Dashboard.xlsx) → **Download Excel file** (dataset, PivotTables, and dashboard all in one).  
+- [🖼️ Dashboard.png](Dashboard.png) → Screenshot preview of the dashboard.  
+- `README.md` → Documentation of project.  
 - `Pizza_Sales_Dashboard.xlsx` → Contains dataset, PivotTables, and final dashboard (all in one file).  
 - `README.md` → Documentation of project.  
 - `dashboard.png` → Screenshot preview of the dashboard.  
