@@ -80,7 +80,7 @@ This project presents an **interactive Excel dashboard** designed to analyze piz
 ## 📬 Contact  
 👤 **LAHARI PONNAGANT**  
 - GitHub: [LAHARI PONNAGANTI](https://github.com/LahariPonnaganti)  
-- LinkedIn: [Lahari Ponnaganti](www.linkedin.com/in/lahariponnaganti)   
+- LinkedIn: [Lahari Ponnaganti](https://www.linkedin.com/in/lahariponnaganti/)   
 
 ---
 
